@@ -5,10 +5,10 @@ body{
     font-family: Arial, Helvetica, sans-serif;
 }
 main
-{margin: auto;
-    width: 1000px;
-    height: 148vh;
-    background-image: url(10.jpg);
+{
+    height: 98vh;
+    margin: auto;
+    background-image: url(img/10.jpg);
 }
 h1{ background-color: white;
     text-align: center;
@@ -19,19 +19,15 @@ p.a{
     text-align: center;
 }
 p#t{
-    position: absolute;
-    bottom: 35%;
-    left: 24%;
-    background-color: white;
-    margin: 3px 0px;
-    text-align: center;
-    width: 750px;
+    background-color: orange;
+    margin: auto;
+    text-align: justify;
 }
 img
 {
     position: relative;
     bottom: 0%;
-    left: 35%;
+    left: 25%;
     right: 0%;
     top: 0%;
     margin: 0px;
@@ -40,26 +36,26 @@ img.t
 {
     position: absolute;
     bottom: 0%;
-    left: 35%;
+    left: 30%;
     right: 0%;
-    top: 65%;
+    top: 73%;
     margin: 0px;
 }
 img.y
 {
     position: absolute;
     bottom: 0%;
-    left: 35%;
+    left: 30%;
     right: 0%;
-    top: 73%;
+    top: 80%;
     margin: 0px;
 }
 img.i {
     position: absolute;
     bottom: 0%;
-    left: 35%;
+    left: 30%;
     right: 0%;
-    top: 82%;
+    top: 88%;
     margin: 0px;
     
 }
@@ -72,11 +68,12 @@ div.tw
     background-color: blueviolet;
     border: 1px solid blueviolet;
     color: blueviolet;
+    display: block;
     position: absolute;
     bottom: 0%;
     left: 40%;
     right: 0%;
-    top: 67%;
+    top: 74%;
     margin: 0px;
     border-radius: 8px;
     padding: 1px;
@@ -96,7 +93,7 @@ div.yu{
     bottom: 0%;
     left: 40%;
     right: 0%;
-    top: 75%;
+    top: 82%;
     margin: 0px;
 }
 div.in{
@@ -112,6 +109,13 @@ div.in{
     bottom: 0%;
     left: 40%;
     right: 0%;
-    top: 83.5%;
+    top: 90%;
     margin: 0px;
+}
+footer
+{
+    margin: 0px;
+    background-color: black;
+    color: white;
+    text-align: center;
 }
