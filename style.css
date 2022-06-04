@@ -10,16 +10,19 @@ main
     margin: auto;
     background-image: url(img/10.jpg);
 }
-h1{ background-color: white;
+h1{
+    color: white;
+    font-size: 1em;
     text-align: center;
 }
 p.a{
-    background-color: white;
+    font-size: 1em;
     margin: 3px 0px;
     text-align: center;
 }
 p#t{
-    background-color: orange;
+    font-size: 1em;
+    color: white;
     margin: auto;
     text-align: justify;
 }
@@ -27,10 +30,10 @@ img
 {
     position: relative;
     bottom: 0%;
-    left: 25%;
+    left: 15%;
     right: 0%;
     top: 0%;
-    margin: 0px;
+    margin: auto;
 }
 img.t
 {
@@ -38,7 +41,7 @@ img.t
     bottom: 0%;
     left: 30%;
     right: 0%;
-    top: 73%;
+    top: 76%;
     margin: 0px;
 }
 img.y
@@ -47,7 +50,7 @@ img.y
     bottom: 0%;
     left: 30%;
     right: 0%;
-    top: 80%;
+    top: 83%;
     margin: 0px;
 }
 img.i {
@@ -55,25 +58,25 @@ img.i {
     bottom: 0%;
     left: 30%;
     right: 0%;
-    top: 88%;
+    top: 91%;
     margin: 0px;
     
 }
 a{
     text-decoration: none;
     margin: 0px;
+    color: white;
 }
 div.tw 
 {
     background-color: blueviolet;
-    border: 1px solid blueviolet;
-    color: blueviolet;
+    color: white;
     display: block;
     position: absolute;
     bottom: 0%;
     left: 40%;
     right: 0%;
-    top: 74%;
+    top: 78%;
     margin: 0px;
     border-radius: 8px;
     padding: 1px;
@@ -86,14 +89,13 @@ div.yu{
     padding: 1px;
     width: 100px;
     height: 25px;
-    background-color: blueviolet;
-    border-color: blueviolet;
-    color: red;
+    background-color:red;
+    color: white;
     position: absolute;
     bottom: 0%;
     left: 40%;
     right: 0%;
-    top: 82%;
+    top: 85%;
     margin: 0px;
 }
 div.in{
@@ -102,14 +104,13 @@ div.in{
     width: 100px;
     height: 25px;
     position: relative;
-    background-color: blueviolet;
-    border-color: blueviolet;
-    color: orange;
+    background-color: orange;
+    color: white;
     position: absolute;
     bottom: 0%;
     left: 40%;
     right: 0%;
-    top: 90%;
+    top: 93%;
     margin: 0px;
 }
 footer
