@@ -38,27 +38,21 @@ img
 img.t
 {
     position: absolute;
-    bottom: 0%;
     left: 25%;
-    right: 0%;
-    top: 73%;
+    top: 76%;
     margin: 0px;
 }
 img.y
 {
     position: absolute;
-    bottom: 0%;
     left: 25%;
-    right: 0%;
-    top: 82%;
+    top: 84%;
     margin: 0px;
 }
 img.i {
     position: absolute;
-    bottom: 0%;
+    top: 92%;
     left: 25%;
-    right: 0%;
-    top: 91%;
     margin: 0px;
     
 }
@@ -74,10 +68,8 @@ div.tw
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.445);
     display: block;
     position: absolute;
-    bottom: 0%;
+    bottom: 18%;
     left: 43%;
-    right: 0%;
-    top: 75%;
     margin: 0px;
     border-radius: 8px;
     padding: 1px;
@@ -94,10 +86,8 @@ div.yu{
     background-color:red;
     color: white;
     position: absolute;
-    bottom: 0%;
+    bottom: 10%;
     left: 43%;
-    right: 0%;
-    top: 84%;
     margin: 0px;
 }
 div.in{
@@ -110,10 +100,8 @@ div.in{
     background-color: orange;
     color: white;
     position: absolute;
-    bottom: 0%;
+    bottom: 2%;
     left: 43%;
-    right: 0%;
-    top: 93%;
     margin: 0px;
 }
 footer
