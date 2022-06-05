@@ -8,7 +8,10 @@ main
 {
     height: 98vh;
     margin: auto;
-    background-image: url(img/10.jpg);
+    background-image: url(img/fundo.png);
+    background-repeat: no-repeat;
+    background-size: 58vh;
+
 }
 h1{
     color: white;
@@ -39,19 +42,19 @@ img.t
 {
     position: absolute;
     left: 25%;
-    top: 76%;
+    top: 19%;
     margin: 0px;
 }
 img.y
 {
     position: absolute;
     left: 25%;
-    top: 84%;
+    top: 28%;
     margin: 0px;
 }
 img.i {
     position: absolute;
-    top: 92%;
+    top: 37%;
     left: 25%;
     margin: 0px;
     
@@ -68,7 +71,7 @@ div.tw
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.445);
     display: block;
     position: absolute;
-    bottom: 18%;
+    top: 20%;
     left: 43%;
     margin: 0px;
     border-radius: 8px;
@@ -86,7 +89,7 @@ div.yu{
     background-color:red;
     color: white;
     position: absolute;
-    bottom: 10%;
+    top: 30%;
     left: 43%;
     margin: 0px;
 }
@@ -100,7 +103,7 @@ div.in{
     background-color: orange;
     color: white;
     position: absolute;
-    bottom: 2%;
+    top: 39%;
     left: 43%;
     margin: 0px;
 }
