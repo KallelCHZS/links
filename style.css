@@ -73,13 +73,14 @@ a{
 }
 div.tw 
 {
-    background-color: blueviolet;
-    color: white;
-    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.445);
+   
     display: block;
     position: absolute;
     top: 20%;
     left: 48%;
+    background-color: blueviolet;
+    color: white;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.445);
     margin: 0px;
     border-radius: 8px;
     padding: 1px;
