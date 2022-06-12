@@ -114,6 +114,18 @@ div.in{
     left: 48%;
     margin: 0px;
 }
+.t{
+    width: 50px;
+    border-radius: 50%;
+}
+.y{
+    width: 50px;
+    border-radius: 50%;
+}
+.i{
+    width: 50px;
+    border-radius: 50%;
+}
 footer
 {
     margin: 0px;
