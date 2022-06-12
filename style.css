@@ -12,8 +12,6 @@ body{
 }
 main
 {   
-    position: relative;
-    width: 90vw;
     height: 98vh;
     background: url(img/fundo.png);
     background-repeat: no-repeat;
