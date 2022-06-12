@@ -12,6 +12,7 @@ body{
 }
 main
 {   
+    width: 90.5vw;
     height: 98vh;
     background: url(img/fundo.png);
     background-repeat: no-repeat;
