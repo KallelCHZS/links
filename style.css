@@ -8,13 +8,14 @@
     font-weight: normal;
 }
 body{
-    background-image: linear-gradient(to right, rgb(18, 97, 170), rgb(255, 255, 255)) ;
+    background-image: linear-gradient(to right, rgb(18, 97, 170), rgb(255, 255, 255));
 }
 main
-{
+{   
+    position: relative;
+    width: 90vw;
     height: 98vh;
-    margin: auto;
-    background-image: url(img/fundo.png);
+    background: url(img/fundo.png);
     background-repeat: no-repeat;
     background-size: 56vh;
 
@@ -55,21 +56,21 @@ img
 img.t
 {
     position: absolute;
-    left: 30%;
+    left: 48%;
     top: 19%;
     margin: 0px;
 }
 img.y
 {
     position: absolute;
-    left: 30%;
+    left: 48%;
     top: 28%;
     margin: 0px;
 }
 img.i {
     position: absolute;
     top: 37%;
-    left: 30%;
+    left: 48%;
     margin: 0px;
     
 }
@@ -83,7 +84,7 @@ div.tw
     display: block;
     position: absolute;
     top: 20%;
-    left: 48%;
+    left: 63%;
     background-color: blueviolet;
     color: white;
     box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.445);
@@ -103,8 +104,8 @@ div.yu{
     background-color:red;
     color: white;
     position: absolute;
-    top: 30%;
-    left: 48%;
+    top: 29%;
+    left: 63%;
     margin: 0px;
 }
 div.in{
@@ -117,9 +118,10 @@ div.in{
     background-color: orange;
     color: white;
     position: absolute;
-    top: 39%;
-    left: 48%;
+    top: 37.5%;
+    left: 63%;
     margin: 0px;
+    
 }
 .t{
     width: 40px;
