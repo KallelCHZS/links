@@ -12,7 +12,7 @@ body{
 }
 main
 {   
-    width: 90.5vw;
+    width: 98vw;
     height: 98vh;
     background: url(img/fundo.png);
     background-repeat: no-repeat;
@@ -140,7 +140,7 @@ footer
     background-color: black;
     color: white;
     text-align: center;
-    width: 90.5vw;
+    width: 98vw;
 }
 .fim{
     margin: 0px;
