@@ -13,14 +13,14 @@ body{
 main
 {   position: relative;
     background-color: black;
-    width: 450px;
+    width: 500px;
     height: 98vh;
     background: url(img/fundo.png);
     background-repeat: no-repeat;
     background-size: 56vh; 
     margin: 0px;
     padding: 0px;
-    left: 55%;
+    left: 60%;
     transform: translate(-55%);
 
 }
