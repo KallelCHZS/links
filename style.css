@@ -13,16 +13,11 @@ body{
 main
 {   position: relative;
     background-color: black;
-    width: 500px;
+    width: 97vw;
     height: 98vh;
     background: url(img/fundo.png);
     background-repeat: no-repeat;
     background-size: 56vh; 
-    margin: 0px;
-    padding: 0px;
-    left: 60%;
-    transform: translate(-55%);
-
 }
 article{
     margin: 0px;
